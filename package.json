@@ -12,7 +12,7 @@
     "react",
     "javascript"
   ],
-  "author": "Oscar Barajas <oscar@platzi.com>",
+  "author": "Daniel Rios",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.15.0",
@@ -36,5 +36,13 @@
     "sass": "^1.38.0",
     "sass-loader": "^12.1.0",
     "style-loader": "^3.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel2001AL/React-Shop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/platzi/react-practico/issues"
+  },
+  "homepage": "https://github.com/platzi/react-practico#readme"
 }
